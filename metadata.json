@@ -1,0 +1,7 @@
+{
+  "name": "QuizMind AI - Intelligent Quiz Generator",
+  "description": "Generate dynamic, customized quizzes on any topic instantly with AI, complete with smart explanations, multiple question formats, study flashcards, timer challenges, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
